@@ -1,1 +1,1 @@
-print("Hi this is Sinchana");
+prnt("Hi this is Sinchana");
